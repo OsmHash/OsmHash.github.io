@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - Description
-- Links
+- [upwork](https://www.upwork.com/freelancers/~01263fb5ec66bc7ffe)
 
 ### Project 2
 - Description
